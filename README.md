@@ -26,4 +26,4 @@ cd handwritten-digit-recognizer
 	•	🎮 Add gesture-based control or confidence overlay
 	•	🌐 Deploy as a Flask/TensorFlow.js web app
    
- 
+ Demo Video : https://www.linkedin.com/posts/soumyadeep-kolay-789951318_deeplearning-machinelearning-ai-activity-7368668932158693377-52mr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCWDBkB4wyxsOTGk2AzWbp70spLKz2LEVU
